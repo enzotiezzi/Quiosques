@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAP9g5m+KBkkmm4uJ1boNuIQAAAAACAAAAAAAQZgAAAAEAACAAAABee8DrmtJJbAlHTSeLojs8nggT2uy18t7sIcUDKd8D8QAAAAAOgAAAAAIAACAAAABnnJcYN52RM5IsAIbelVW+ZZB+Al20NIlizlQRJ8HrcyAAAACeFL+L9RoYLKUlPYDb5Lcp0yet3+F/VfuLWkjMfgOumUAAAAC+pwBn8N33J3UuswR9jVB/f5ME2weUjnl7M03jPZ8CaE+mDLDbHJ61K/dkxztgO5z7CsyZgok6t/1m4WhlIZUo</EncryptedPassword>
+    <_PublishTargetUrl>ftp://contasuahistoria.somee.com/www.contasuahistoria.somee.com/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>01/11/2015 14:00:18</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>01/11/2015 14:00:18</publishTime>
+    </File>
+    <File Include="bin/DataBase.dll">
+      <publishTime>01/11/2015 14:40:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>01/11/2015 00:10:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll">
+      <publishTime>01/11/2015 00:10:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll">
+      <publishTime>01/11/2015 00:10:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.Extensibility.Web.dll">
+      <publishTime>01/11/2015 00:10:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll">
+      <publishTime>01/11/2015 00:11:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll">
+      <publishTime>01/11/2015 00:11:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll">
+      <publishTime>01/11/2015 00:11:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Diagnostics.Tracing.EventSource.dll">
+      <publishTime>01/11/2015 00:10:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.dll">
+      <publishTime>01/11/2015 00:10:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll">
+      <publishTime>01/11/2015 00:10:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.dll">
+      <publishTime>01/11/2015 00:10:35</publishTime>
+    </File>
+    <File Include="bin/Tell your story.dll">
+      <publishTime>01/14/2015 03:32:23</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/11/2015 14:54:50</publishTime>
+    </File>
+    <File Include="Services/GHCriarPost.ashx">
+      <publishTime>01/11/2015 20:30:29</publishTime>
+    </File>
+    <File Include="Services/GHListaPosts.ashx">
+      <publishTime>01/11/2015 21:15:59</publishTime>
+    </File>
+    <File Include="Services/GHTeste.ashx">
+      <publishTime>01/11/2015 18:43:33</publishTime>
+    </File>
+    <File Include="Services/Praias/GHListaCidades.ashx">
+      <publishTime>01/13/2015 19:12:34</publishTime>
+    </File>
+    <File Include="Services/Praias/GHListaListorais.ashx">
+      <publishTime>01/13/2015 17:32:50</publishTime>
+    </File>
+    <File Include="Services/Praias/GHListaPraias.ashx">
+      <publishTime>01/14/2015 00:24:25</publishTime>
+    </File>
+    <File Include="Services/Praias/GHListaQuiosques.ashx">
+      <publishTime>01/14/2015 02:43:54</publishTime>
+    </File>
+    <File Include="Services/Praias/GHRegistraCidade.ashx">
+      <publishTime>01/13/2015 17:25:08</publishTime>
+    </File>
+    <File Include="Services/Praias/GHRegistraPraia.ashx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Services/Praias/GHRegistraQuiosque.ashx">
+      <publishTime>01/13/2015 17:29:35</publishTime>
+    </File>
+    <File Include="Services/Praias/GHRegistrarLitoral.ashx">
+      <publishTime>01/13/2015 15:20:35</publishTime>
+    </File>
+    <File Include="Services/Praias/GHRetornaImageURL.ashx">
+      <publishTime>01/14/2015 03:25:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/11/2015 17:39:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
